@@ -11,12 +11,21 @@ The web is distributed, one system sitting on one part of the globe connects to 
 
 http://abhinavsingh.com/blog/2008/11/what-happens-before-you-finally-viewed-this-page/
 
+#### By the end of this task you should be able to -
+
+1. Understand the request-response cycle 
+2. Understand the purpose of a server
+3. Understand the purpose of a browser.
 
 ## Task 2 - Installing the LAMP/WAMP stack on your machine.
 
 - If you are a Microsoft Windows user, please access this URL to learn how to install WAMP on your machine. - http://youtu.be/3j5lxcV_320
 - If you are a Linux user, the installation process might defer based on the distribution you use. Any article that you find on digitalocean.com should be a good place to start on how to install the LAMP stack on Linux.
 - Ensure that you are install PHP version 5.4 or above.
+
+#### By the end of this task you should be able to -
+
+1. Install LAMP stack on Windows or Linux based PC's.
 
 ## Task 3 - Understanding the LAMP/WAMP Stack.
 
@@ -32,7 +41,7 @@ Operating System, purpose is to run other application software.
 
 #### M - MySQL
 - What's a database system?
-- What are some other web server software?
+- What are some other database software?
 
 #### P - PHP
 - Full form for PHP
@@ -94,7 +103,7 @@ Read up on variables from here - http://php.net/manual/en/language.variables.bas
 You can skip the section **Vairable Variable**
 For **Variables From External Sources** cover only the GET and POST section.
 
-By the end of it, you should be familiar with - 
+### By the end of it, you should be familiar with - 
 
 - Declaring variables and assigning them values.
 - How scoping of variables works in PHP
@@ -102,6 +111,8 @@ By the end of it, you should be familiar with -
 ## Task 8 - Constants in PHP 
 
 Read here - http://php.net/manual/en/language.constants.php
+
+### By the end of it, you should be familiar with - 
 
 - How to declare, access a constant
 - Knowledge of some magic constants such as `__FILE__`, `__DIR__`, `__LINE__` etc.
@@ -140,6 +151,14 @@ Your output should be a table of the following type -
 - Access form variables in PHP using `$_POST`
 - Use constants to define the prices of various objects.
 - Generate each row of the table (except for the header row) in a `for` loop
+- Ideally your code to calculate and generate the table should be a function.
+
+### By the end of it, you should be familiar with - 
+
+1. Access values from textboxes in an HTML page.
+2. The `$_POST` variable
+3. Writing specific focused functions.
+
 
 ## Task  10 : A slightly improved shopping cart.
 
