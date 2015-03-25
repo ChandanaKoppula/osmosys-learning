@@ -15,7 +15,7 @@ The web is distributed, one system sitting on one part of the globe connects to 
 
 http://abhinavsingh.com/blog/2008/11/what-happens-before-you-finally-viewed-this-page/
 
-#### By the end of this task you should be able to -
+##### By the end of this task you should be able to -
 
 1. Understand the request-response cycle 
 2. Understand the purpose of a server
@@ -27,7 +27,7 @@ http://abhinavsingh.com/blog/2008/11/what-happens-before-you-finally-viewed-this
 - If you are a Linux user, the installation process might defer based on the distribution you use. Any article that you find on digitalocean.com should be a good place to start on how to install the LAMP stack on Linux.
 - Ensure that you are install PHP version 5.4 or above.
 
-#### By the end of this task you should be able to -
+##### By the end of this task you should be able to -
 
 1. Install LAMP stack on Windows or Linux based PC's.
 
@@ -60,7 +60,7 @@ Operating System, purpose is to run other application software.
 - PHP has a very good documentation @ http://php.net/docs.php
 - Whenever you go through the documentation, ensure that you glance through the comments at the bottom too.
 
-#### By the end of this task you should be able to -
+##### By the end of this task you should be able to -
 
 1. Familiar with basics of Apache and MySQL
 2. Difference between a dynamic and static programming language.
@@ -76,7 +76,7 @@ Operating System, purpose is to run other application software.
 - Pardon the poor music - https://www.youtube.com/watch?v=HbJOP0YcSjs 
 - Setting up **MySQLWorkbench** for connecting to MySQL - http://www.mysql.com/products/workbench/
 
-#### By the end of this task you should be able to -
+##### By the end of this task you should be able to -
 
 1. Familiar with the various preferences in Netbeans.
 2. Familiarity with debugging code and breakpoints.
@@ -91,7 +91,7 @@ The best place to continue now would be to complete the following tuts -
 2. http://php.net/manual/en/tutorial.useful.php
 3. http://php.net/manual/en/tutorial.forms.php
 
-#### By the end of this task you should be able to understand -
+##### By the end of this task you should be able to understand -
 
 1. The `<?php ?>` tags
 2. The `echo` statement 
@@ -109,7 +109,7 @@ Best place to start on Data Types would be to go through - http://php.net/manual
 
 Our recommendation would be to cover atleast till the `NULL` data type and then to go through Type Juggling - http://php.net/manual/en/language.types.type-juggling.php
 
-#### By the end of this task you should be able to understand -
+##### By the end of this task you should be able to understand -
 
 1. Identify the various data types allowed by PHP.
 
@@ -120,7 +120,7 @@ Read up on variables from here - http://php.net/manual/en/language.variables.bas
 You can skip the section **Vairable Variable**
 For **Variables From External Sources** cover only the GET and POST section.
 
-### By the end of it, you should be familiar with - 
+##### By the end of it, you should be familiar with - 
 
 - Declaring variables and assigning them values.
 - How scoping of variables works in PHP
@@ -129,7 +129,7 @@ For **Variables From External Sources** cover only the GET and POST section.
 
 Read here - http://php.net/manual/en/language.constants.php
 
-### By the end of it, you should be familiar with - 
+##### By the end of it, you should be familiar with - 
 
 - How to declare, access a constant
 - Knowledge of some magic constants such as `__FILE__`, `__DIR__`, `__LINE__` etc.
@@ -170,7 +170,7 @@ Your output should be a table of the following type -
 - Generate each row of the table (except for the header row) in a `for` loop
 - Ideally your code to calculate and generate the table should be a function.
 
-### By the end of it, you should be familiar with - 
+##### By the end of it, you should be familiar with - 
 
 1. Access values from textboxes in an HTML page.
 2. The `$_POST` variable
@@ -184,3 +184,7 @@ OK, so we are comfortable working with text-boxes, it's time to move onto some o
 1. We'll add a check-box at the bottom of our form (but above the submit button). The label of the check-box will be **Want a paper-bag?**
 2. The price column will now become a drop-down that will contain different prices for different products. For example Tooth Paste might have three prices - 60, 55, 50. The user can select which **type** of toothpaste he wants. These values will be predefined and populated in the HTML.
 
+##### By the end of it, you should be familiar with - 
+
+1. Access values from checkboxes
+2. Access values from dropdowns
