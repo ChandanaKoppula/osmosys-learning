@@ -3,6 +3,10 @@ This tutorial assumes a basic understanding of the following -
 - HTML, CSS and JS
 - Some basic C based programming knowledge regarding if/else, variables, loops, operators (`+, -, *, /, !=, ==`), functions etc
 
+## Purpose of this document
+
+- This document serves as a guideline and is not intended to be a tutorial.
+- The points mentioned in the guidelines are starting points to begin your exploration.
 
 ## Task 1 - Understanding how browsers and a server communicate via  Web Browser.
 
@@ -56,6 +60,12 @@ Operating System, purpose is to run other application software.
 - PHP has a very good documentation @ http://php.net/docs.php
 - Whenever you go through the documentation, ensure that you glance through the comments at the bottom too.
 
+#### By the end of this task you should be able to -
+
+1. Familiar with basics of Apache and MySQL
+2. Difference between a dynamic and static programming language.
+3. An interpreted programming language.
+4. Familiarity with the PHP documentation website.
 
 ## Task 4 - Setting up your Workspace
 
@@ -66,6 +76,11 @@ Operating System, purpose is to run other application software.
 - Pardon the poor music - https://www.youtube.com/watch?v=HbJOP0YcSjs 
 - Setting up **MySQLWorkbench** for connecting to MySQL - http://www.mysql.com/products/workbench/
 
+#### By the end of this task you should be able to -
+
+1. Familiar with the various preferences in Netbeans.
+2. Familiarity with debugging code and breakpoints.
+3. Familiarity with the **MySQLWorkbench**
 
 
 ## Task 5 - [Quick Crash Course] Tutorials on the PHP.NET website
@@ -76,7 +91,7 @@ The best place to continue now would be to complete the following tuts -
 2. http://php.net/manual/en/tutorial.useful.php
 3. http://php.net/manual/en/tutorial.forms.php
 
-By the end of it, you should be familiar with -
+#### By the end of this task you should be able to understand -
 
 1. The `<?php ?>` tags
 2. The `echo` statement 
@@ -92,9 +107,11 @@ By the end of it, you should be familiar with -
 
 Best place to start on Data Types would be to go through - http://php.net/manual/en/language.types.php
 
-Our recommendation would be to covert atleast till the `NULL` Data Type and then to go through Type Juggling - http://php.net/manual/en/language.types.type-juggling.php
+Our recommendation would be to cover atleast till the `NULL` data type and then to go through Type Juggling - http://php.net/manual/en/language.types.type-juggling.php
 
-After covering the above, you should be able to identify the various data types allowed by PHP.
+#### By the end of this task you should be able to understand -
+
+1. Identify the various data types allowed by PHP.
 
 ## Task 7 - Variables in PHP
 
