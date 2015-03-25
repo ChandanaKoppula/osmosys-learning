@@ -188,3 +188,10 @@ OK, so we are comfortable working with text-boxes, it's time to move onto some o
 
 1. Access values from checkboxes
 2. Access values from dropdowns
+
+## Task 11 : Saving the purchase details in the database for future use. (In progress)
+
+Now what we want to do is save every purchase made into the database so that we can have an idea of what has been purchased since the beginning of time.
+
+
+
