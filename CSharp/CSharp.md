@@ -38,7 +38,7 @@
 #####Static Constructor	
 #####create an object	
 #####Declare a method	
-		What is a Parameter?
+		**What is a Parameter?**
 		How do define a Parameter?
 		How to get and set parameters?
 #####Different ways of using methods declared in a class	
