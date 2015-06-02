@@ -1,93 +1,93 @@
-##Introduction to .Net Framework
-What is framework
-
-What is FCL (Framework Class Library)?
-What does FCL do?
-What is CLR (Common Language Runtime)?
-What does CLR do?
-History of .Net
+###Introduction to .Net Framework
+#####What is framework?  
+#####What is FCL (Framework Class Library)?  
+#####What does FCL do?  
+#####What is CLR (Common Language Runtime)?  
+#####What does CLR do?  
+#####History of .Net  
 
 ##Introduction to Visual Studio	
-Discuss the differences between typing in Notepad and Visual Studio
-Installation
-Write a small program in c#
-Compile and run
-Solution Explorer
+#####Discuss the differences between typing in Notepad and Visual Studio
+#####Installation
+#####Write a small program in c#
+#####Compile and run
+#####Solution Explorer
 
 ##Introduction to C#	
-Static Vs. Dynamic programming languages	
-Datatypes	
-Enum	
-Different types of variables in C#
+#####Static Vs. Dynamic programming languages	
+#####Datatypes	
+#####Enum	
+#####Different types of variables in C#
 
 ##Console Application Introduction	
-Sample program
-Reading from and writing to a console
-Command line arguments
+#####Sample program
+#####Reading from and writing to a console
+#####Command line arguments
 
 ##Type Casting	
-Implicit conversions
-Explicit conversions (casts)
+#####Implicit conversions
+#####Explicit conversions (casts)
 	
 ##Classes		
-	Declare a Class	
-	Sample code 	
-	Constructors, Construct overloading, methods overloading.	
-	Default Constructor	
-	Parameterized Constructors	
-	Constructor Overloading	
-	Static Constructor	
-	create an object	
-	Declare a method	
+#####Declare a Class	
+#####Sample code 	
+#####Constructors, Construct overloading, methods overloading.	
+#####Default Constructor	
+#####Parameterized Constructors	
+#####Constructor Overloading	
+#####Static Constructor	
+#####create an object	
+#####Declare a method	
 		What is a Parameter?
 		How do define a Parameter?
 		How to get and set parameters?
-	Different ways of using methods declared in a class	
-	Access specifiers	
-	Static class	
-	Public class	
+#####Different ways of using methods declared in a class	
+#####Access specifiers	
+#####Static class	
+#####Public class	
 	
 ##Arithmetic Operators		
 ##String functionality:		
-String.Format	
-String.Concat	
-String.Equals	
-String Builder	
+#####String.Format	
+#####String.Concat	
+#####String.Equals	
+#####String Builder	
 
-Control Statements	
-	If statement
-	Do while loop 
-	Switch case statements
+##Control Statements	
+#####If statement
+#####Do while loop 
+#####Switch case statements
 
-Class Library	
-	What is class library ?
-	How to create class libraries?
+##Class Library	
+#####What is class library ?
+#####How to create class libraries?
 
-File Operations(.csv, .txt):		
-	Stream Writer	
-	Stream Reader	
-	File Path through App.config(AppSettings)	
+##File Operations(.csv, .txt):		
+#####Stream Writer	
+#####Stream Reader	
+#####File Path through App.config(AppSettings)	
 
-Exception	
-	Exception Handling
-	Standard exceptions
-	Exception Handling in c#
-	Try Parse
-Code reusability	
-Coding Standards	
-Naming Conventions	
+##Exceptions	
+#####Exception Handling
+#####Standard exceptions
+#####Exception Handling in c#
+#####Try Parse
 
-Forms				
-	What is a window form application?			
-	How to  create windows form applications?			
-	Naming Conventions			
-	Rules:			
+##Code reusability	
+##Coding Standards	
+##Naming Conventions	
+
+##Forms				
+#####What is a window form application?			
+#####How to  create windows form applications?			
+#####Naming Conventions			
+#####Rules:			
 		Tab orders		
 		Alignment		
 		Tool tip		
 		Maximize and Minimize box		
 		Start Position		
-	Controls:			
+#####Controls:			
 		Text box		
 		Button		
 		Dropdown		
