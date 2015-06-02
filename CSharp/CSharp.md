@@ -86,7 +86,8 @@
 2. Alignment		
 3. Tool tip		
 4. Maximize and Minimize box		
-5. Start Position  		
+5. Start Position  
+
 #####Controls:			
 1. Text box		
 2. Button		
