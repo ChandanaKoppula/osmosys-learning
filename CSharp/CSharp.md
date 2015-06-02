@@ -38,8 +38,8 @@
 #####Static Constructor	
 #####create an object	
 #####Declare a method	
-		**What is a Parameter**
-		__How do define a Parameter__
+		What is a Parameter?
+		How do define a Parameter?
 		How to get and set parameters?
 #####Different ways of using methods declared in a class	
 #####Access specifiers	
@@ -82,21 +82,21 @@
 #####How to  create windows form applications?			
 #####Naming Conventions			
 #####Rules:			
-		Tab orders		
-		Alignment		
-		Tool tip		
-		Maximize and Minimize box		
-		Start Position		
+1. Tab orders		
+2. Alignment		
+3. Tool tip		
+4. Maximize and Minimize box		
+5. Start Position		
 #####Controls:			
-		Text box		
-		Button		
-		Dropdown		
-		Dataset		
-		Label		
-		Tooltip		
-		Listbox		
-			Checked list box	
-			Rich textbox	
+1. Text box		
+2. Button		
+3. Dropdown		
+4. Dataset		
+5. Label		
+6. Tooltip		
+7. Listbox		
+  1. Checked list box	
+  2. Rich textbox	
 		Masked textbox		
 		Tab control		
 		List view		
