@@ -123,7 +123,8 @@
 4. Make a dll for db operations	
 
 ##Datatables				
-1. What is a Datatable in C#? 			
+1. What is a Datatable in C#? 	
+	<Explain the datatable and the connectivity to datatable here>
 2. How to use datatable efficiently ?			
 
 ##Gridview				
